@@ -12,18 +12,18 @@ export default function Bio() {
       <Trans>
         See what's buzzing on{" "}
         <LinkUI
-          href="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+          href="https://twitter.com/TheEconomist"
           target="_blank"
           rel="noopener noreferrer"
           sx={css({
             lineHeight: 2,
           })}
         >
-          Google World News
+          The Economist
         </LinkUI>{" "}
         in your native language on{" "}
         <LinkUI as={Link} to="/">
-          news.buzzing.cc
+          economist.buzzing.cc
         </LinkUI>
       </Trans>
     </>
