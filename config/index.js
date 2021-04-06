@@ -90,6 +90,24 @@ const siteMetadata = {
         },
       ],
     },
+    {
+      locale: "ja",
+      title: "エコノミスト人気の記事",
+      shortTitle: "エコノミスト",
+      description: "人気のエコノミスト記事を日本語で閲覧",
+      keywords: ["buzzing", "エコノミスト"],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+    }
   ],
 };
 
