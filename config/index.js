@@ -8,6 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "经济学人"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
+  iconUrl: "https://economist.buzzing.cc/avatar.jpg",
   menuLinks: [
     // {
     //   name: "每周精选",
